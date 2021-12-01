@@ -1,10 +1,10 @@
 ---
 label: out Function
-order: 100
+order: 997
 ---
 # `out` Function
 
-It prints the passed string to the console. Replaces `\n` to newline character.
+It prints the passed string to the console.
 +++ Usage
 ```
 out string
