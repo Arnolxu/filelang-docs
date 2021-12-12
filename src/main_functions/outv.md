@@ -1,6 +1,5 @@
 ---
 label: outv Function
-order: 996
 ---
 # `outv` Function
 

@@ -1,6 +1,5 @@
 ---
 label: out Function
-order: 997
 ---
 # `out` Function
 

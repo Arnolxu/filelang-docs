@@ -1,6 +1,5 @@
 ---
 label: set Function
-order: 998
 ---
 # `set` Function
 

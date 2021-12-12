@@ -1,6 +1,5 @@
 ---
 label: Comparison functions
-order: 985
 ---
 
 # Comparisons
@@ -33,3 +32,21 @@ Here's the table for `u*` functions:
 | `uge` | Use (if) Greater or Equal | `>=` |
 | `ul` | Use (if) Lower | `<` |
 | `ule` | Use (if) Lower or Equal | `<=` |
+
+### Example
+```
+# main.fl
+set a hmm
+set b hmm
+set c hmmm
+cmp a b
+ue ab
+cmp a c
+ue ac
+
+# ab.fl
+out a and b variables are equal.\n
+
+# ac.fl
+out a and c variables are equal.\n
+```

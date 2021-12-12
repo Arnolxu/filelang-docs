@@ -1,6 +1,5 @@
 ---
 label: in Function
-order: 995
 ---
 # `in` Function
 

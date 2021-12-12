@@ -1,6 +1,5 @@
 ---
 label: div Function
-order: 989
 ---
 
 # `div` Function

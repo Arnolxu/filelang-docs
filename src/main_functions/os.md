@@ -1,6 +1,5 @@
 ---
 label: os Function
-order: 994
 ---
 # `os` Function
 

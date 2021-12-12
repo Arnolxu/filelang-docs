@@ -1,6 +1,5 @@
 ---
 label: os_out Function
-order: 993
 ---
 # `os_out` Function
 

@@ -1,6 +1,5 @@
 ---
 label: re Function
-order: 992
 ---
 
 # `re` Function

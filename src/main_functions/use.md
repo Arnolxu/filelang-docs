@@ -1,6 +1,5 @@
 ---
 label: use Function
-order: 999
 ---
 # `use` Function
 

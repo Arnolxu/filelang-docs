@@ -1,6 +1,5 @@
 ---
 label: mod Function
-order: 986
 ---
 
 # `mod` Function

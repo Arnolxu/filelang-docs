@@ -1,6 +1,5 @@
 ---
 label: sub Function
-order: 990
 ---
 
 # `sub` Function

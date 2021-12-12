@@ -1,6 +1,5 @@
 ---
 label: add Function
-order: 991
 ---
 
 # `add` Function
