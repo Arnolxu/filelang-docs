@@ -3,7 +3,7 @@ label: use Function
 ---
 # `use` Function
 
-It executes another `.fl` file, continues after running.
+It executes another `.fl` file or a library function, continues after running.
 +++ Usage
 ```
 use file
